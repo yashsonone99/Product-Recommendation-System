@@ -83,7 +83,7 @@ These metrics focus on **top-N recommendation relevance**, similar to real produ
 ---
 
 ## 🚀 Deployment
-The system is deployed as a **web application** using **Flask**.
+The system is deployed as a **web application** using **Stream-Lit**.
 
 ### Application Workflow:
 - User provides input  
