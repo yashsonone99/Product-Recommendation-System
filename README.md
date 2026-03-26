@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Product Recommendation System"/>
+  <img src="banner1.jpg" width="100%" alt="Product Recommendation System"/>
 </p>
 
 # 🛒 Product Recommendation System  
