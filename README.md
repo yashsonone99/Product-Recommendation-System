@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" width="100%" alt="Product Recommendation System"/>
+</p>
+
 # 🛒 Product Recommendation System  
 ### From Data to Decisions — Personalized Recommendations at Scale
 
