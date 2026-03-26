@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.jpg" width="100%" alt="Product Recommendation System"/>
+  <img src="banners.jpg" width="100%" alt="Product Recommendation System"/>
 </p>
 
 # 🛒 Product Recommendation System  
@@ -98,6 +98,13 @@ The system is deployed as a **web application** using **Stream-Lit**.
 🎥 **Demo Video:** Available in the `demo/` folder
 
 ---
+
+# 📸 Screenshots of Deployment
+
+<p align="center">
+  <img src="layout.png" width="100%"/><br>
+  
+</p>
 
 ## 🛠️ Tech Stack
 - **Programming:** Python  
